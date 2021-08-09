@@ -1,11 +1,17 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+
 
 const inicio = () => {
-  return (
+ 
+   return (
+    
     <div>
-      <h1>Esta es la pagina inicio</h1>
+    
+    
     </div>
   );
 };
 
+  
 export default inicio;
